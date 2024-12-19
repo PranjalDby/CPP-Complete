@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pranjaldubey/Developer/C++/OS_Lab_C/ex3'
+relocations:     []
+...

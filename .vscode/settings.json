@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "string": "cpp",
+        "limits": "c",
+        "ratio": "c",
+        "algorithm": "c"
+    }
+}

@@ -1,0 +1,1 @@
+ mode_t mode = (mode_t)strtol(mode_input, NULL, 8);
